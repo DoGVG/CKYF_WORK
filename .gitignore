@@ -1,0 +1,25 @@
+
+# 1.编译
+*.o
+*.d
+*.crf
+*.axf
+*.elf
+*.map
+*.lnp
+*.dep
+*.lst
+*.htm
+*.iex
+*.sct
+*.build_log.htm
+
+# 2.配置
+*.uvguix.*
+*.uvoptx
+*.scvd
+DebugConfig/
+RTE/
+
+# 3.CubeMX 本机缓存
+.mxproject
